@@ -6,3 +6,4 @@ In this project there will be a focus on:
 - Neural Network Training Protocols
 - Pre-trained and openly available Neural Networks review
 - Deep Learning creation libraries reviews
+- Special focus on NLP
